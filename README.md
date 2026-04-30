@@ -91,6 +91,22 @@ Agent stores memory and outputs
 Other agents can read trusted data
    ↓
 Workflow continues across tools, chains, and applications
+```
 
+## Demo screenshot
+
+This screenshot shows the first working version of AetherLink AI Agent Demo running successfully.
+
+![AetherLink AI Agent Demo output](demo-output.png)
+
+---
+
+## License
+
+This project is licensed under the MIT License.
 
 **You are free to use, modify, and share this project.**
+
+
+
+
