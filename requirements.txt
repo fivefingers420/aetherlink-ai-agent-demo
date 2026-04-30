@@ -1,0 +1,7 @@
+# AetherLink AI Agent Demo currently uses only built-in Python features.
+# No external packages are required for this first version.
+
+# Future versions may use packages such as:
+# requests
+# python-dotenv
+# boto3
